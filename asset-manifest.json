@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01102b2d.chunk.css",
+    "main.js": "/static/js/main.f3514918.chunk.js",
+    "main.js.map": "/static/js/main.f3514918.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c0ae09a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bab8787a.chunk.js": "/static/js/2.bab8787a.chunk.js",
+    "static/js/2.bab8787a.chunk.js.map": "/static/js/2.bab8787a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba56b9e8547a8eb24567e1b1d200b2a0.js": "/precache-manifest.ba56b9e8547a8eb24567e1b1d200b2a0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.01102b2d.chunk.css.map": "/static/css/main.01102b2d.chunk.css.map",
+    "static/js/2.bab8787a.chunk.js.LICENSE.txt": "/static/js/2.bab8787a.chunk.js.LICENSE.txt",
+    "static/media/full-moon-in-blue-sky-4321944.jpg": "/static/media/full-moon-in-blue-sky-4321944.b4330ef3.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/red-art-relaxation-girl-20967.jpg": "/static/media/red-art-relaxation-girl-20967.d1f3937c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c0ae09a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bab8787a.chunk.js",
+    "static/css/main.01102b2d.chunk.css",
+    "static/js/main.f3514918.chunk.js"
+  ]
+}
