@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import forestImg from '../assets/full-moon-in-blue-sky-4321944.jpg';
+import forestImg from '../assets/cameras-on-white-background-4397899.jpg';
 import dforestImg from '../assets/red-art-relaxation-girl-20967.jpg';
 
 export default class CarouselBox extends Component {
@@ -10,7 +10,7 @@ export default class CarouselBox extends Component {
                 <Carousel.Item>
                     <img height={1000}
                         className="d-block w-100 "
-                        src={forestImg}
+                        src={dforestImg}
                         alt = "Forest"
                     />
                     <Carousel.Caption>
@@ -21,7 +21,7 @@ export default class CarouselBox extends Component {
                 <Carousel.Item>
                     <img 
                         className="d-block w-100 "
-                        src={dforestImg}
+                        src={forestImg}
                         alt = "Forest"
                     />
                     <Carousel.Caption>

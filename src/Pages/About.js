@@ -36,7 +36,7 @@ export default class About extends Component {
                                     лишь добавляют фракционных разногласий и разоблачены</p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="second">
-                                    <img  height={400} src="https://lh3.googleusercontent.com/proxy/dzH_Gbnt7-UH09fJR2zyhlAxWyRcopMTKIcTJscv2dSJqteV-61Zk6b3xa9jaiZKGT-FCZ_t4HGKKEc1yTbC88sbRy-Ko3-SxKBfs9hRorySsXMiQ2AlQql8fmwkQAhq7IyaVcayK4NmdeTA6MniGjUZEX4XJELnFaFKxhI1KsMF0MsJd3pBCBKAYsnYhXVsIq1oeg" />
+                                    <img  height={400} src="https://avatars.mds.yandex.net/get-zen_doc/170671/pub_5ab02e7a51aa4d06269c53ee_5ab02fa89e29a20ea3526a37/scale_1200" />
                                     <p> Лишь акционеры крупнейших компаний объявлены нарушающими общечеловеческие нормы этики и морали. 
                                     Сложно сказать, почему непосредственные участники технического прогресса 
                                     лишь добавляют фракционных разногласий и разоблачены</p>
