@@ -10,7 +10,7 @@ Header состоит из адптивного меню с возможност
 
 В консоле Git Bush выполните следующие команды:
 ```
-git clone https://github.com/laka-vadim/webpack-praktikum.git # клонирует данный репозиторий
+git clone https://github.com/Dmitriy-Git/react-bootstrap # клонирует данный репозиторий
 npm install # установит все зависимости из package.json
 ```
 
